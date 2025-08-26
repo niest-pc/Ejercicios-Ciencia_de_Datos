@@ -14,7 +14,7 @@ Ejercicios tomados del libro: The Data Science Workshop. Second Edition. Packt P
 
 ## Capitulo 3: Clasificación Binaria
 * Formulación del planteamiento de un problema de ciencia de datos desde una perspectiva empresarial.
-* Formulación de hipótesis a partir de diversos impulsores de negocio que influyen en un caso de uso y verificarión mediante análisis exploratorio de datos.
+* Formulación de hipótesis a partir de diversos impulsores de negocio que influyen en un caso de uso y verificación mediante análisis exploratorio de datos.
 * Derivación de características basadas en intuiciones derivadas del análisis exploratorio mediante ingeniería de características.
 * Construcción de modelos de clasificación binaria utilizando una función de regresión logística y análisis de métricas de clasificación.
 
