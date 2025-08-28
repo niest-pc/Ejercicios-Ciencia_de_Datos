@@ -21,3 +21,10 @@ Ejercicios tomados del libro: The Data Science Workshop. Second Edition. Packt P
 ## Capítulo 4: Clasificación Multiclase con RandomForest
 * Implementación de un clasificador de Bosque Aleatorio.
 * Ajuste de hiperparámetros para mejorar el rendimiento del modelo.
+
+## Capítulo 5: Realizando Primer Análisis de Agrupamiento
+* Implementación del algoritmo de aprendizaje no supervisado k-medias.
+* Estandarización y procesamiento de datos para su uso en el análisis de grupos.
+* Visualización de los datos agrupados con diagramas de dispersión.
+* Aplicación de centroides y distancia euclidiana.
+* Determinación del número óptimo de grupos para un conjunto de datos determinado.
