@@ -1,4 +1,4 @@
-# Ejercicios - Ciencia de Datos
+# Ciencia de Datos - Ejercicios
 Ejercicios tomados del libro: The Data Science Workshop. Second Edition. Packt Publishing, 2020.
 
 ## Capitulo 1: Introducción a la ciencia de datos en Python
